@@ -37,7 +37,6 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 | [![Thiago Gomes](https://github.com/ThiagoG8.png?size=100)](https://github.com/ThiagoG8) |
 | ------------------------------------------------------------------------------------------------ |
 | [Thiago Gomes](https://github.com/ThiagoG8)                                                   |
-|
 
 ## License
 
