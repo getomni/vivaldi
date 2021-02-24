@@ -17,5 +17,5 @@ Download using the [GitHub .zip download](https://github.com/getomni/Vivaldi/arc
   *  On Linux: Tools menu > Settings
   *  On macOS: Vivaldi menu > Preferences
 2. Select Themes in the sidebar
-3. Click the + sign, enter a name (ex: Omni)
+3. Click the + sign, enter a name (ex: omni)
 4. Enter the following colors from the file [Colors](./colors.txt).
