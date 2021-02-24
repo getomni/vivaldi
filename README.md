@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img alt="Omni screnshoot for Vivaldi" src="./screenshot.png">
+  <img alt="Omni screnshoot for Vivaldi" src="./Screenshot.png">
 </p>
 
 ## Install
